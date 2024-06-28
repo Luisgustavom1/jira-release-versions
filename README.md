@@ -10,7 +10,7 @@ When a version is released, you can choose a channel in slack or discord to publ
 ```txt
 The format of the message is the same as when you copy from jira, but with an added version description at the top
 ```
-
+#### Jira message format example
 <img width="726" alt="jira-release" src="https://github.com/Luisgustavom1/jira-version-release/assets/65229051/be7d2f18-5fb0-458a-ae68-97f80e8c6802">
 
 #### Platform Integration
